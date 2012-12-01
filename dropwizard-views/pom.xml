@@ -27,5 +27,11 @@
             <artifactId>compiler</artifactId>
             <version>0.8.8</version>
         </dependency>
+        <dependency>
+            <groupId>com.github.jknack</groupId>
+            <artifactId>handlebars</artifactId>
+            <version>0.6.2</version>
+        </dependency>
+
     </dependencies>
 </project>
